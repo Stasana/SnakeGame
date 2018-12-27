@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B284560D-9825-7315-C4DC-D23C9FD299D3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TailMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SnakeMovement.cs" Line="109" Column="34" />
+      <File FileName="Assets/Scripts/BonusGeneration.cs" Line="22" Column="5" />
+      <File FileName="Assets/Scripts/FoodGeneration.cs" Line="34" Column="10" />
+      <File FileName="Assets/Scripts/Bird.cs" Line="14" Column="6" />
+      <File FileName="Assets/Scripts/Food.cs" Line="12" Column="59" />
+      <File FileName="Assets/Scripts/Pig.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/ControlScenceAndMenu.cs" Line="70" Column="2" />
+      <File FileName="Assets/Scripts/HighScore.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/Pause.cs" Line="28" Column="14" />
+      <File FileName="Assets/Scripts/TailMovement.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/Borders.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="27" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - SnakeMain
+  - BonusSpawn
+  - PauseTittle
   layers:
   - Default
   - TransparentFX

@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 32872969cda8e414d8ce6b52bfd68b94
   - enabled: 1
-    path: Assets/Scenes/SnakeGame.unity
+    path: Assets/Scenes/SnakeEasyGame.unity
     guid: ce54216f7c93a4ad7acc9062a2a23983
+  - enabled: 1
+    path: Assets/Scenes/SnakeMediumGame.unity
+    guid: b358ea0bc816e48d684c6c1a235f1b9a
+  - enabled: 1
+    path: Assets/Scenes/SnakeHardGame.unity
+    guid: a8feed3629a2f4a299cdbedc68485af8
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: d12269cda23eb41899e3ccfdd7637443
   m_configObjects: {}
